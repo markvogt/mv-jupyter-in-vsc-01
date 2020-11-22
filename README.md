@@ -12,3 +12,4 @@ A project for learning to create &amp; use Jupyter notebooks (then convert to py
 ### 2020 11 21 MV: 
 - INSTALLED numpy, pandas into env001
 - IMPORTED numpy, pandas into notebook01
+- STARTED getting-used-to working with JUPYTER NOTEBOOKS from INSIDE VSCode :-O :-)...
