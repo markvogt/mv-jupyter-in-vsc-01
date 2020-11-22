@@ -1,6 +1,9 @@
 # mv-jupyter-in-vsc-01
 A project for learning to create &amp; use Jupyter notebooks (then convert to py files) ALL IN VSCODE :-O ... 
 
+REFERENCE: 
+https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python
+
 ## JOURNAL
 
 ### 2020 11 20 MV: 
