@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Development\\env001\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Development\\environments\\env01\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
